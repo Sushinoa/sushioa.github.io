@@ -1,5 +1,5 @@
-# webcommunityukie.github.io
+# test
 
-Icon adapted from https://thenounproject.com/term/global-community/986374/
+Icon adapted from
 
-Website based off http://goldsmiths.tech/ 
+Website based off 
